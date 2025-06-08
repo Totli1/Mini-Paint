@@ -5,6 +5,10 @@
 ![image](https://github.com/user-attachments/assets/37852a0b-200f-4c13-abc8-eb0b628595f0)
 
 
+![image](https://github.com/user-attachments/assets/0ff66570-b0aa-4fe6-9dcd-8bdb767fb395)
+
+
+
 Простой графический редактор с функционалом, аналогичным Microsoft Paint, разработанный на C# с использованием Windows Forms.
 
 ## 🖌️ Функционал
